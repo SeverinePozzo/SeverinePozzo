@@ -17,8 +17,8 @@ Hi, I'm Severine Pozzo, a Software Quality Assurance Tester living in Vancouver,
 - 🙍🏽‍💻 I’m currently working on Web Development and Quality Assurance :wink:;
 - 🌱 I’m currently learning programming languages; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 My GitHub page;
-- 📝[Resume] in txt(https://www.linkedin.com/in/severinepozzo/)
+- 📫 My [GitHub Page];
+- 📝[Resume] (https://www.linkedin.com/in/severinepozzo/)
 
 
 **Languages and Tools:**  
